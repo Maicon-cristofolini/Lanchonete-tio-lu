@@ -24,3 +24,4 @@ Ficam salvos apenas na máquina local.
 
 ### 6. Como verificar, pelo GitHub, se os commits foram enviados corretamente?
 Acessando a página do repositório e verificando a aba/histórico de **commits**.
+Ajuste de estrutura
